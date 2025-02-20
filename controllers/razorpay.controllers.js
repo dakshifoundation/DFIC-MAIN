@@ -46,8 +46,8 @@ exports.verifyPayment= async (req,res)=>{
       const { order_id, payment_id, signature, data}= req.body
       const { Name, Mobile_No, Email, Address, AdharId, Donation, Toward, Remark }=data
        
-      const key= "rzp_test_bVnwqq5GvuvOi4"
-      const secret= 'qvBOBp0ErsczSBd6CkNhXSi8'
+      const key= "rzp_test_fake_hai_bhavnwqq5aaGvuvOi4"
+      const secret= 'qvBOBpnwqq5aaGvuvCkNhXSi8'
 
       if ( !order_id || !payment_id || !signature ) {
         return res.status(400).json({ success: false, msg: "Missing required parameters." });
