@@ -18,14 +18,11 @@ This server is integrated with [Razorpay](https://razorpay.com/) to handle secur
 ### 2. 📄 Custom Google Form Submission
 The server processes custom form submissions and records data to a Google Sheet using the [Google Sheets API](https://developers.google.com/sheets/api). User data is collected through a form on the website, then submitted to the server. Using a Google Service Account, the server securely populates this data in the designated Google Sheet, ensuring data integrity and organization.
 
-### 3. 🔒 CSRF Protection
-CSRF protection is implemented to secure user interactions by verifying the authenticity of each request. This prevents malicious actors from executing unauthorized actions on behalf of other users, enhancing the overall security of the server.
+### 3. 🗄️ MongoDB Payment History Storage
+All payment transactions, including successful and failed attempts, are securely stored in a [MongoDB database](https://www.mongodb.com/products/platform/atlas-database). The server records details such as transaction ID, payment amount, user details, timestamp, and status. This allows users to track their payment history, while administrators can review transactions, analyze trends, and manage refunds efficiently.
 
 ### 4. 🚦 Rate Limiting
 To prevent abuse and ensure optimal server performance, rate limiting is implemented. This restricts the number of requests a user can make to the server within a specified timeframe, providing protection against DoS attacks and maintaining server reliability.
-
-### 5. 🗄️ MongoDB Payment History Storage
-All payment transactions, including successful and failed attempts, are securely stored in a [MongoDB database](https://www.mongodb.com/products/platform/atlas-database). The server records details such as transaction ID, payment amount, user details, timestamp, and status. This allows users to track their payment history, while administrators can review transactions, analyze trends, and manage refunds efficiently.
 
 ## 🛠️ Getting Started
 
