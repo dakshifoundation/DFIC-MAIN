@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dakshi-foundation",
+  "private_key_id": "683949468aa2f7e4008796b02cd9bf2ca47c192a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC837pzL0a/WKAa\n7Vb2PmYU1SeGXfIAP5sDvIX+mFNZzvksCwxVhxQNcqTRapJqE/n0mxO20C8GIKHx\ngsy6cbsIaZqSkEgj08VmoeD7n1/GACk8MyIbhpgSgoiRPaJDrsTF/5qTSyAMGhEN\nCTgM4ZsG6MMDwLEjvXXdzW6xSqAF4oghDe3vJrAfeVecyN7qtsc68JarK/dYWGzj\nWPOXbIAtW44meiMxn2939gDb5xUlmebeaTJO2QNQl3pFyNS8JT2ESFS1fqTKtrjA\nUMGty7iDfyYwLhkiIhXqYKK6ytvfXiFAV38QYCs4CYA8//stKF8tDtRhZ5aPC1WG\nKPqd3qhdAgMBAAECggEALg49JBy9WufkxKQmvi15jW9rr6llWzenWFomb25b9syQ\nOHPqOknRszTHKXScBsdfvkx5Wmz55nvbGW3sd7NHaPX9VeteV/QqEMx89MaIX1sH\nMxGB6eXgW7UeUZJOqMPrYh+hpPSe+Cx8B2p90zBJMf5cnWPlngIzRVZ0fUFl84D9\nXOYe1E8DMOrovx/+TBMw+Kw2dQ6qU1wQKMoilE0p18GoTtwFCGECHH3Vbfm7dFOC\nj7i3HE8n/wACgS1VYTiRL9sYBW9cwiyu803yV6zb7ktX0eWTmSyl5B0NMMQeIisC\nCupFvbaKrJH8IutB1uDHWT59LVcWfiI+h/67E+mimQKBgQD5Rl7h1aaVipzuJeg9\nKf51rcSAtedYUdXdTtRdO2Z+W4zLwYiT8Wam85yFYb4DoNGLrXtWe/7XLm3uxOBW\nbvjRP8+D9JXUTkwOFJzoNAIXSkjXK8lRj1yY0Nx/c3aAKFDlzPgiBjK3GQ8wGmP1\nEiDpLHg/isRuaBjGRTRbAe4ZVQKBgQDB+DIPrVMlT7+L7uwL/M74FP0ZYskttW0d\nYInmW1Ke+ExG/2FR287votTCiakVZPgMId7fECptle/+4R5XW5Rnzq1/Lc9w1p02\np8NxIdrG1pni+rYwiiMZqfJkwqUb6OKoWtyq7gDNOv0rTe5pLLNVBKv12558Y9Mv\n7Fdw8lsy6QKBgQCf7NPm06mie2GfMFbFFvIYEbnmUc3wzeAFshNxFTD2lEnKV4oG\nUHPpXJXoxQKhVUXa9RwSKk8fQrxo2YqMKXoc1XGPWRXfNbR5vCPGncdRpekBkyf/\n2Zgwup8cbblzE2qDZHM1cQCMk9k4pVXH3y+aKVukeKT5qHNskO28DYryWQKBgQCA\nDFkAAGvjNcI9nnw1ba80Fqb/Gzez9RETU6e1apQgXcn9FJoqb/EsQVIzGq2EciNN\n3w5CM2nO7iyBFhvxj4NpBAeE7bkDxKoEarua8755hTIRpXCgmpCRYJ+j5NsakaMP\ngOwr6vKciVSYQdohlGDOv0bGBzWY6E2CVYNkDJooAQKBgQD0SHnYEVzJx74+Q9lR\n+eKJvxMQ5GAJwFebvDb+k29yHG4Ev/8YYvhrN/HXQFqH/zPAdkcz/5DEBKuns8qc\nPATNB7WojuYGeOzxhBeBWYDRvRnyaiWQgVdbF4vI5DfYxgjZ94KKe4aPzgI6HeIQ\nBV0bt88rFvOA8mqWUO+gEyUMag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dakshi-foundation@dakshi-foundation.iam.gserviceaccount.com",
+  "client_id": "116280061767260845472",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dakshi-foundation%40dakshi-foundation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
