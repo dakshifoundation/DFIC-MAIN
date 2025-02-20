@@ -47,7 +47,7 @@ To prevent abuse and ensure optimal server performance, rate limiting is impleme
     ```
 3. **Start the application**:
     ```bash
-    npm node app.js
+    node app.js
     ```
 
 ---
