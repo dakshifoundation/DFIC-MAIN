@@ -2,8 +2,10 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-121212?style=for-the-badge&logo=razorpay&logoColor=00aff0)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 This project serves as the backend server for an **NGO Website** built with React, handling various functionalities such as payment integration, form submission processing, logging, and security features. The server is built using Node.js and interacts with multiple services to ensure a secure and efficient experience for users.
 - **[Visit Dakshi Foundation](https://dakshifoundation.in)** - 'An Innovation for Change'.
