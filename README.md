@@ -50,4 +50,12 @@ To prevent abuse and ensure optimal server performance, rate limiting is impleme
     node app.js
     ```
 
+## 🛠️ Developers:
+
+- **Front-End Developer :** Ayush Khale | 📧 ayushhkhale@gmail.com | 🐙 [GitHub](https://github.com/ayushkhale)
+- **Back-End Developer :** Abhishek Ganeshe | 📧 abhishekganeshe33@gmail.com | 🐙 [GitHub](https://github.com/RishiGaneshe)
+
+
+
+
 ---
