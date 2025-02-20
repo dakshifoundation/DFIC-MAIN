@@ -13,4 +13,4 @@ exports.createRazorpayInstance= async ()=>{
   }
 }
 
-// key : qvBOBp0ErsczSBd6CkNhXSi8
+// key : qvBzp_test_i4kNhi_bhavnwqq5aaGvuvOi4kNhXSi8
