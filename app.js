@@ -11,7 +11,7 @@ const { apiReqLogger }= require('./middlewares/logger-api-req.middleware.js')
 const app = express()
 const PORT = 8000
 
-const URL= "mongodb+srv://DFICinfodakshifoundation:123456789DFICinfodakshifoundation123456789@dfic.5dagz.mongodb.net/DFIC-Database?retryWrites=true&w=majority&appName=DFIC"
+const URL= "mongodb+srv://<username>:<password>@dfic.5dagz.mongodb.net/<database-name>?retryWrites=true&w=majority&appName=DFIC"
 
 async function connectMongoDB(URL){
     try{
